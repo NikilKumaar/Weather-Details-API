@@ -1,0 +1,11 @@
+.box {
+    align-items: center;
+    background-color: black;
+    padding: 40px;
+    color: aquamarine;
+}
+
+.city {
+    font-size: xx-large;
+    font-weight: bolder;
+}
